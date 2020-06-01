@@ -5,4 +5,5 @@ categories: jekyll update
 ---
 첫 경험에서 좋은 결과를 얻는 것은 큰 행운이다.
 
-![img1](./img/ion_switching.jpg)
+![img1](https://github.com/0mil/0mil.github.io/img/ion_switching.jpg)
+
